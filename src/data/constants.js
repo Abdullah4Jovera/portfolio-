@@ -1,4 +1,3 @@
-import Lantana from '../images/lantana.png'
 export const Bio = {
   name: "Abdullah Shah",
   roles: [
@@ -381,11 +380,11 @@ export const projects = [
     description:
       "Zee AI Tools Providers spearheads a revolutionary approach to AI tools integration, seamlessly combining the flexibility of the MERN stack with cutting-edge artificial intelligence capabilities. This platform caters to developers aiming to elevate their applications and businesses in search of innovative solutions. Zee AI Tools Providers emerges as the go-to platform for unlocking the true potential of AI.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://res.cloudinary.com/dn1oz4vt9/image/upload/v1720524970/fc9na3o7kfibejn9d2rz.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "",
+    webapp: "https://zeeaitools.netlify.app/",
     member: [
       {
         name: "Abdullah Shah",
