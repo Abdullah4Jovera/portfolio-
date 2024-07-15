@@ -166,16 +166,16 @@ export const skills = [
         image:
           "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
       },
-      {
-        name: "Adobe XD",
-        image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
-      },
-      {
-        name: "Figma",
-        image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
-      },
+      // {
+      //   name: "Adobe XD",
+      //   image:
+      //     "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+      // },
+      // {
+      //   name: "Figma",
+      //   image:
+      //     "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+      // },
     ],
   },
 ];
@@ -356,7 +356,7 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    // github: "https://github.com/rishavchanda/Trackify",
+    github: "https://github.com/abdullah4-web",
     webapp: "https://www.lantanapk.com/",
     member: [
       {
@@ -407,7 +407,7 @@ export const projects = [
     description:
       "Developed a robust rental car system using the MERN stack, integrating essential technologies for enhanced security and seamless user experience.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://res.cloudinary.com/dn1oz4vt9/image/upload/v1720531863/vbqdzefhagd1sgjloofa.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -417,8 +417,8 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    // github: "https://github.com/rishavchanda/Project-Management-App",
-    // webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/abdullah4-web",
+    webapp: "https://rentacarforyou.netlify.app/",
     member: [
       {
         name: "Abdullah Shah",
@@ -426,41 +426,44 @@ export const projects = [
         linkedin: "https://abdullahshahportfolio.netlify.app/",
         github: "https://github.com/abdullah4-web",
       },
-      // {
-      //   name: "Upasana Chaudhuri",
-      //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-      //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-      //   github: "https://github.com/upasana0710",
-      // },
+     
     ],
   },
-  // {
-  //   id: 2,
-  //   title: "Brain Tumor Detection",
-  //   date: "Jan 2023 - Mar 2023",
-  //   description:
-  //     "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-  //   image:
-  //     "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-  //   webapp: "https://brain-tumor.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
-  // },
+  {
+    id: 2,
+    title: "Jovera Rental Mangement System",
+    date: "Jan 2024 - Mar 2024",
+    description:
+      "A Rental Management System is a specialized software solution designed to streamline and automate the processes involved in managing rental properties. It provides a centralized platform for property owners, landlords, and property managers to efficiently handle all aspects of rental property operations.",
+    image:
+      "https://res.cloudinary.com/dn1oz4vt9/image/upload/v1720697632/phkdk89tmz1z7y9op9yc.png",
+      tags: [
+        "React Js",
+        "MongoDb",
+        "Node Js",
+        "Express Js",
+        "Redux",
+        "NodeMailer",
+      ],
+      category: "web app",
+          github: "https://github.com/abdullah4-web",
+      // github: "https://github.com/rishavchanda/Project-Management-App",
+      webapp: "https://jrms.netlify.app/",
+      member: [
+        {
+          name: "Abdullah Shah",
+          img: "https://res.cloudinary.com/dn1oz4vt9/image/upload/v1720247107/wt0agmotj94xiz0jcc5d.png",
+          linkedin: "https://abdullahshahportfolio.netlify.app/",
+          github: "https://github.com/abdullah4-web",
+        },
+        // {
+        //   name: "Upasana Chaudhuri",
+        //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+        //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+        //   github: "https://github.com/upasana0710",
+        // },
+    ],
+  },
   // {
   //   id: 3,
   //   title: "Buckoid",
